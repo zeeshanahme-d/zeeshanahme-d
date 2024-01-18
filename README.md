@@ -7,11 +7,11 @@
 
 - 🌱 I’m currently learning **Node.js & React Native**
 
-- 👨‍💻 All of my projects are available at [zeeshan-ahmed.vercel.app](zeeshan-ahmed.vercel.app)
+- 👨‍💻 All of my projects are available at <a href="https://zeeshan-ahmed.vercel.app">My Portfolio</a>
 
 - 💬 Ask me about **MERN**
 
-- 📫 How to reach me **zeeshanahmed.smit@gmail.com**
+- 📫 How to reach me **dev.zeeshanahmed@gmail.com**
 
 - ⚡ Fun fact **I lave Programming**
 
