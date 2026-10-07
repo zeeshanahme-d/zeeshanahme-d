@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Node.js & React Native**
 
-- 👨‍💻 All of my projects are available at <a href="https://zeeshan-ahmed.vercel.app">My Portfolio</a>
+- 👨‍💻 All of my projects are available at <a href="https://zeeshanahmed.dev">My Portfolio</a>
 
 - 💬 Ask me about **MERN**
 
